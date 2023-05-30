@@ -1,3 +1,5 @@
+**Presentación**: https://view.genial.ly/6475d4438590380017f1aee5/presentation-conser-vision
+
 # **Proyecto final** - Curso de Especialización en Inteligencia Artificial y Big data 2022/2023
 
 Con el objeto de aplicar los conceptos, métodos y tecnologías impartidas durante el Curso
